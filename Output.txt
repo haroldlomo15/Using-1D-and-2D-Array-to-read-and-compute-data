@@ -1,0 +1,9 @@
+Store Name		      JAN	  	FEB		  MAR		  APR	  	MAY		  TOTAL
+
+Takomapar_store		  2.7     71.3  	14.7  	23.9	  51.2	  163.8
+Bethesda_store		  12.7     8.9     17.8	  7.9     18.3  	65.6
+Montgomery_store		22.2     23      32	    54       65      196.2
+Wheaton_store       12       34      5      34       64      149
+Glenmont_store	  	33       65      23	    65       65      251
+Hamshey_store       12       23      45	    67        56     203
+Odd_Store           21       34      56     43       34      188
